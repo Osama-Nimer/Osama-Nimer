@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osama Nimer</h1>
 <h3 align="center">Full Stack Developer (.NET | RESTful API | React)</h3>
 
-- 🔭 I’m currently working on [Quiz App](https://github.com/Osama-Nimer/Quiz_App)
 
 - 🌱 I’m currently learning **.Net & React**
 
