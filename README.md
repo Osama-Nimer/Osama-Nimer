@@ -3,6 +3,7 @@
 ###
 
 <h2 align="center">Full Stack Developer MERN Stack (MongoDB | Express.js | React | Node.js | RESTful API)</h2>
+###
 <div>
   
 </div>
@@ -14,10 +15,11 @@
 ###
 
 <h4 align="left">🚀 Full Stack Developer | Building Scalable & Efficient Web Solutions<br><br>I am a results-driven Full Stack Developer with expertise in React, TypeScript, Node.js, Express.js. specializing in developing high-performance, scalable applications. With a strong background in software architecture and problem-solving, I focus on delivering efficient, maintainable, and business-impacting solutions.<br><br>💡 Driven by Innovation & Growth<br>I believe that great software isn’t just about code—it’s about solving real-world problems. I am always exploring new technologies, improving system efficiency, and pushing the boundaries of web development. My goal? To build groundbreaking digital products and eventually establish a tech-driven company that challenges industry leaders.<br><br>📩 Let’s connect! I’m open to opportunities in software development, technical leadership, and innovation-driven projects.</h4>
-
+###
 <div>
   
 </div>
+###
 <div>
   
 </div>
