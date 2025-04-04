@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Full Stack Developer MERN Stack (MongoDB | Express.js | React | Node.js | RESTful API)</h4>
+<h2 align="center">Full Stack Developer MERN Stack (MongoDB | Express.js | React | Node.js | RESTful API)</h2>
 
 ###
 
