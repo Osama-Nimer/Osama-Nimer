@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Osama Nimer</h1>
-<h3 align="center">Full Stack Developer (.NET | RESTful API | React)</h3>
+<h3 align="center">Full Stack Developer MERN Stack (MongoDB | Express.js | React | Node.js | RESTful API)</h3>
 
 
-- 🌱 I’m currently learning **.Net & React**
+- 🌱 I’m currently learning **Node.js & Express.js & React**
 
-- 💬 Ask me about **.Net & RESTful API**
+- 💬 Ask me about **Node.js & Express.js & RESTful API**
 
 - 📫 How to reach me **osamanimer@ieee.org**
 
