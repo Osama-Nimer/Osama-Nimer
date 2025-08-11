@@ -1,75 +1,30 @@
-<h1 align="center">Hi 👋, I'm Osama Nimer</h1>
+## About Me
 
-###
+Hi, I'm Osama Nimer, a passionate full-stack web developer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.
 
-<h2 align="center">Full Stack Developer MERN Stack (MongoDB | Express.js | React | Node.js | RESTful API)</h2>
+## My Skills
 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
 
-###
+## GitHub Stats
 
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Osama-Nimer&theme=dark&show_icons=true&count_private=true">
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/123979168?v=4"  />
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Osama-Nimer&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Osama-Nimer&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-###
+## Connect with me
 
-<h3 align="left">🚀 Full Stack Developer | Building Scalable & Efficient Web Solutions<br><br>I am a results-driven Full Stack Developer with expertise in React, TypeScript, Node.js, Express.js. specializing in developing high-performance, scalable applications. With a strong background in software architecture and problem-solving, I focus on delivering efficient, maintainable, and business-impacting solutions.<br><br>💡 Driven by Innovation & Growth<br>I believe that great software isn’t just about code—it’s about solving real-world problems. I am always exploring new technologies, improving system efficiency, and pushing the boundaries of web development. My goal? To build groundbreaking digital products and eventually establish a tech-driven company that challenges industry leaders.<br><br>📩 Let’s connect! I’m open to opportunities in software development, technical leadership, and innovation-driven projects.</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.instagram.com/osama_niimer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
-  </a>
-  <a href="osamanimer@ieee.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/osama-nimer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/osama.nimer.581" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osama-Nimer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osama-Nimer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-
-
-###
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Osama NimerOsamaOsama</a> Email: osamanimer@ieee.org</p>
