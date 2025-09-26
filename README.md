@@ -26,7 +26,6 @@ Hi, I'm Osama Nimer, a passionate full-stack web developer with a love for build
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Osama-Nimer&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Osama-Nimer&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr>
-<img src="https://github-readme-stats.vercel.app/api?username=Osama-Nimer&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
 </tbody></table>
 
 
