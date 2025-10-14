@@ -17,7 +17,7 @@ Hi, I'm Osama Nimer, a passionate full-stack web developer with a love for build
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
 
-## GitHub Stats
+## GitHub Stats 🔥
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 
