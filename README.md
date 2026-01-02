@@ -19,16 +19,9 @@ Hi, I'm Osama Nimer, a passionate full-stack web developer with a love for build
 
 ## GitHub Stats 🔥
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Osama-Nimer&theme=github_dark" />
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Osama-Nimer&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Osama-Nimer&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr>
-</tbody></table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Osama-Nimer&theme=react-dark&hide_border=true&area=true" />
-
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Osama-Nimer&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</div>
 ## Connect with me
 
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/osama-nimer/" target="_blank">Osama Nimer</a> Email: osamanimer@ieee.org</p>
