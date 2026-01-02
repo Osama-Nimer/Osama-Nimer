@@ -22,6 +22,7 @@ Hi, I'm Osama Nimer, a passionate full-stack web developer with a love for build
 <div align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=Osama-Nimer&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
+
 ## Connect with me
 
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/osama-nimer/" target="_blank">Osama Nimer</a> Email: osamanimer@ieee.org</p>
