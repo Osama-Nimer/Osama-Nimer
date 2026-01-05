@@ -25,4 +25,4 @@ Hi, I'm Osama Nimer, a passionate full-stack web developer with a love for build
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/osama-nimer/" target="_blank">Osama Nimer</a> Email: osamanimer@ieee.org</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/osama-nimer/" target="_blank">Osama Nimer</a> Email: osamanimer6@gmail.com</p>
